@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Department>
-  <IT>
-    <EmployeeId>EP234</EmployeeId>
-  </IT>
-  <Finance>
-    <EmployeeId>EP234</EmployeeId>
-  </Finance>
-</Department>
